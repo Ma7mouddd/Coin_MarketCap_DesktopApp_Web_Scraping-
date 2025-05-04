@@ -73,10 +73,3 @@ python coinMarketcap.py
 - Selenium
 - PyQt5
 
-## License
-
-[Include your license information here]
-
-## Contributing
-
-[Include contribution guidelines if applicable]
